@@ -132,13 +132,4 @@ The SQL above is also included in:
 
 Primary development environment: Codex desktop / GPT-5 coding agent.
 
-Project context file: `/Users/Furqan/Desktop/Layman/CLAUDE.md`
-
-## Submission Checklist
-
-- Push the project to a GitHub repository
-- Keep `Layman/Secrets.plist` out of version control
-- Include screenshots in this README
-- Record the AI workflow video
-- Record the app demo video
-- Archive and upload to TestFlight if you want the bonus
+AI context file used during development: `/Users/Furqan/Desktop/Layman/CLAUDE.md`
