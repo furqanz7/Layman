@@ -100,15 +100,33 @@ The SQL above is also included in:
 
 ## Screenshots
 
-Add simulator screenshots here before submission:
+### Welcome
 
-- Welcome
-- Auth
-- Home
-- Article Detail
-- Ask Layman
-- Saved
-- Profile
+![Welcome](docs/screenshots/welcome.png)
+
+### Auth
+
+![Auth](docs/screenshots/auth.png)
+
+### Home
+
+![Home](docs/screenshots/home.png)
+
+### Article Detail
+
+![Article Detail](docs/screenshots/article-detail.png)
+
+### Ask Layman
+
+![Ask Layman](docs/screenshots/chat.png)
+
+### Saved
+
+![Saved](docs/screenshots/saved.png)
+
+### Profile
+
+![Profile](docs/screenshots/profile.png)
 
 ## AI Workflow
 
