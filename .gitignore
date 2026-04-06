@@ -1,0 +1,10 @@
+DerivedData/
+Layman/Secrets.plist
+.DS_Store
+build.log
+assignment.pdf
+mockup_previews/
+pdf_pages/
+pdf_pages_upright/
+render_pdf.swift
+DerivedData*/
