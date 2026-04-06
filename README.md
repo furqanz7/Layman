@@ -132,4 +132,4 @@ The SQL above is also included in:
 
 Primary development environment: Codex desktop / GPT-5 coding agent.
 
-AI context file used during development: `/Users/Furqan/Desktop/Layman/CLAUDE.md`
+AI context file used during development: `/Users/Furqan/Desktop/Layman/AI_CONTEXT.md`
